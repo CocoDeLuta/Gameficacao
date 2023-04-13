@@ -1,0 +1,15 @@
+C:\Users\mateu\Documents\GitHub\exercicios_orientacao_objetos\gamificacao\obj\Debug\net7.0\gamificacao.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\GitHub\exercicios_orientacao_objetos\gamificacao\obj\Debug\net7.0\gamificacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\GitHub\exercicios_orientacao_objetos\gamificacao\obj\Debug\net7.0\gamificacao.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\GitHub\exercicios_orientacao_objetos\gamificacao\obj\Debug\net7.0\gamificacao.AssemblyInfo.cs
+C:\Users\mateu\Documents\GitHub\exercicios_orientacao_objetos\gamificacao\obj\Debug\net7.0\gamificacao.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\GitHub\exercicios_orientacao_objetos\gamificacao\bin\Debug\net7.0\gamificacao.exe
+C:\Users\mateu\Documents\GitHub\exercicios_orientacao_objetos\gamificacao\bin\Debug\net7.0\gamificacao.deps.json
+C:\Users\mateu\Documents\GitHub\exercicios_orientacao_objetos\gamificacao\bin\Debug\net7.0\gamificacao.runtimeconfig.json
+C:\Users\mateu\Documents\GitHub\exercicios_orientacao_objetos\gamificacao\bin\Debug\net7.0\gamificacao.dll
+C:\Users\mateu\Documents\GitHub\exercicios_orientacao_objetos\gamificacao\bin\Debug\net7.0\gamificacao.pdb
+C:\Users\mateu\Documents\GitHub\exercicios_orientacao_objetos\gamificacao\obj\Debug\net7.0\gamificacao.dll
+C:\Users\mateu\Documents\GitHub\exercicios_orientacao_objetos\gamificacao\obj\Debug\net7.0\refint\gamificacao.dll
+C:\Users\mateu\Documents\GitHub\exercicios_orientacao_objetos\gamificacao\obj\Debug\net7.0\gamificacao.pdb
+C:\Users\mateu\Documents\GitHub\exercicios_orientacao_objetos\gamificacao\obj\Debug\net7.0\gamificacao.genruntimeconfig.cache
+C:\Users\mateu\Documents\GitHub\exercicios_orientacao_objetos\gamificacao\obj\Debug\net7.0\ref\gamificacao.dll
